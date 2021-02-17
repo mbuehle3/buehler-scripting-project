@@ -13,7 +13,7 @@ In addition to estimating these parameters for the reintroduced populations, I w
 
 The simulation code was developed and described in Willoughby et al. (2019) and was forked on Github from jwillou/captivebreeding-IBM
 
-<img src = "figures/model-schematic.png" width="10" height="10">
+<img src = "figures/model-schematic.png" width="120" height="300">
 
 ## Parameters
 
